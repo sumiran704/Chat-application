@@ -1,0 +1,29 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.card {
+    border-radius: 0.5rem;
+}
+
+#chat-box {
+    background-color: #e9ecef;
+    padding: 15px;
+    border-radius: 0.5rem;
+}
+
+.message {
+    margin-bottom: 10px;
+}
+
+.message .username {
+    font-weight: bold;
+}
+
+.message .text {
+    margin-top: 5px;
+}
+
+.input-group {
+    margin-top: 10px;
+}
